@@ -7,8 +7,8 @@ Notebook #1:
 
 Notebook #2:
 
-  > Video Processing
+  > Image Editor Functions
 
 Notebook #3:
 
-  > Image Editor Functions
+  > Video Processing
